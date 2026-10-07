@@ -1,0 +1,32 @@
+[
+    {
+        "order_id": "CAN1001",
+        "customer_name": "Lakshya Soni",
+        "items": [
+            {
+                "id": 1,
+                "name": "Veg Burger",
+                "price": 60,
+                "quantity": 1
+            },
+            {
+                "id": 5,
+                "name": "Masala Dosa",
+                "price": 90,
+                "quantity": 1
+            },
+            {
+                "id": 7,
+                "name": "Cold Coffee",
+                "price": 80,
+                "quantity": 2
+            }
+        ],
+        "subtotal": 310,
+        "discount": 15.5,
+        "gst": 14.725,
+        "total": 309.225,
+        "payment_method": "UPI",
+        "status": "Completed"
+    }
+]
